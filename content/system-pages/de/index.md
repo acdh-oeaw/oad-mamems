@@ -1,22 +1,15 @@
 ---
-title: OpenAtlas Discovery
+title: MAMEMS
 navigation: false
 image:
-  light: /assets/images/logo-with-text-light.svg
-  dark: /assets/images/logo-with-text-dark.svg
+  light: /assets/images/mamems_logo.png
+  dark: /assets/images/mamems_logo.png
 leadIn: >-
-  OpenAtlas Discovery ist ein Template für eine Präsentationswebsite des
-  Datenbanksystems OpenAtlas, das von verschiedenen Digital Humanities Projekten
-  aus unterschiedlichen Bereichen genutzt wird. Forscher:innen können ihre Daten
-  ganz einfach in OpenAtlas eingeben und verwalten und anschließend mit
-  OpenAtlas Discovery eine Präsentationsseite einrichten, die bereits anpassbare
-  Visualisierungen für ihre Daten bereitstellt.\
-
-  OpenAtlas Discovery ist vollständig Open Source und kann über **[GitHub](https://github.com/acdh-oeaw/openatlas-discovery)** heruntergeladen werden.\
-
-  \
-
-  **Entdecken Sie unsere Visualisierungen hier:**
+  Das Projekt [Mount Athos in der mittelalterlichen Gesellschaft des östlichen Mittelmeers:
+  Kontextualisierung der Geschichte einer Mönchsrepublik (ca.
+  850-1550)](https://mamems.uni-mainz.de/) wird die erste umfassende Untersuchung der monastischen
+  Gemeinschaften des Berges Athos als unabhängige Akteure in der mittelalterlichen Gesellschaft des
+  östlichen Mittelmeers darstellen.
 links:
   - label: Datentabelle
     href: /visualization?mode=table

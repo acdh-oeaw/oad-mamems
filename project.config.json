@@ -6,6 +6,13 @@
 		"withTextDark": "/assets/images/logo-with-text-dark.svg"
 	},
 	"imprint": "acdh",
+	"colors": {
+		"brand": "#228292",
+		"geojsonPoints": "#24425b",
+		"geojsonAreaCenterPoints": "#228292",
+		"geojsonMovement": "#D0031E",
+	},
+	"twitter": "@openatlas_eu",
 	"network": {
 		"excludeSystemClasses": [
 			"type",
@@ -20,13 +27,7 @@
 			"appellation"
 		]
 	},
-	"colors": {
-		"brand": "#b8cf5b",
-		"geojsonPoints": "#69c0ef",
-		"geojsonAreaCenterPoints": "#b8cf5b",
-		"geojsonMovement": "#D0031E"
-	},
-	"twitter": "@openatlas_eu",
+
 	"detailView": [
 		{
 			"primarySystemClasses": [
@@ -107,4 +108,5 @@
 			"dark": "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json"
 		}
 	}
+
 }
