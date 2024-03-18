@@ -48,8 +48,6 @@ useHead({
 						class="block h-80 w-full max-w-3xl object-contain dark:hidden"
 						preload
 						:src="content.image?.light"
-						:width="768"
-						:height="320"
 					/>
 					<NuxtImg
 						v-if="content.image?.dark != null"
@@ -57,8 +55,6 @@ useHead({
 						class="hidden h-80 w-full max-w-3xl object-contain dark:block"
 						preload
 						:src="content.image?.dark"
-						:width="768"
-						:height="320"
 					/>
 				</div>
 
