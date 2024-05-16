@@ -3,13 +3,13 @@ title: MAMEMS
 navigation: false
 image:
   light: /assets/images/mamems_logo.png
-  dark: /assets/images/mamems_logo.png
-leadIn: >-
-  The [Mount Athos in Medieval Eastern Mediterranean Society: Contextualizing the History of a
+  dark: /assets/images/mamens_logo_inv.png
+
+leadIn:
+  "The [Mount Athos in Medieval Eastern Mediterranean Society: Contextualizing the History of a
   Monastic Republic (ca. 850-1550)](https://mamems.uni-mainz.de/) project will constitute the first
   comprehensive examination of the monastic communities of Mount Athos as independent actors in
-  medieval Eastern Mediterranean society.
-
+  medieval Eastern Mediterranean society."
 links:
   - label: Data table
     href: /visualization?mode=table
