@@ -2,11 +2,8 @@
 title: Team
 navigation:
   title: Team
+image:
+  light: /assets/images/hero-light.svg
+  dark: /assets/images/hero-dark.svg
+leadIn: Team
 ---
-♡ Special thanks go to these individuals who have supported us on our journey to make OpenAtlas Discovery the powerful app it is today:
-
-* Katharina Wünsche
-* Moritz "Mocca" Großfurtner
-* Stefan Probst
-
-Further information can be found at [openatlas.eu](https://openatlas.eu)
