@@ -17,9 +17,4 @@ links:
     href: /visualization?mode=table
   - label: Map
     href: /visualization?mode=map
-  - label: Network
-    href: /visualization?mode=network
 ---
-The data presented in this demo version is kindly provided by: [Mapping Medieval Conflict (MEDCON)](https://www.oeaw.ac.at/imafo/das-institut/detail/mapping-medieval-conflicts). A digital approach towards political dynamics in the pre-modern period.
-
-The data stems from two of MEDCON´s case studies, “Emperor Frederick III and the League of the Mailberger coalition in 1451/52” (executed by Kornelia Holzner-Tobisch and Petra Heinicker) and “Factions and alliances in the fight of Maximilian I for Burgundy” (Sonja Dünnebeil).
