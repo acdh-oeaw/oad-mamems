@@ -12,7 +12,7 @@
 		"geojsonAreaCenterPoints": "#228292",
 		"geojsonMovement": "#D0031E",
 	},
-	"twitter": "@openatlas_eu",
+	"twitter": "",
 	"network": {
 		"excludeSystemClasses": [
 			"type",
