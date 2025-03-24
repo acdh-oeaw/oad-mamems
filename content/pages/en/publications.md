@@ -7,8 +7,6 @@ navigation:
 
 **Project Publications in Press**
 
-
-
 **Project Publications Submitted to Other Venues for Publication**
 
 * Zachary Chitwood, “Dining with the Dead: The Middle Byzantine Commemorative Banquet (Totenmahl)”, in Jennifer Liebsch, Hildegard Poeschel and Michael Grünbart (eds.), *Vormoderne Totenfürsorge. Perspektiven einer lebendigen Praxis* (submitted manuscript, 10,400 words, to appear as an open-access volume in the series “Das Mittelalter. Beihefte”, Heidelberg University Publishing). 
@@ -18,16 +16,13 @@ navigation:
 
 **2025**
 
-
 * Ed. Zachary Chitwood, *Medieval Mount Athos between Wealth and Poverty*. The Medieval Mediterranean 142. Leiden 2025 (online, open-access): <https://doi.org/10.1163/9789004712126>, including the following publications of MAMEMS members:
 
-  * Zachary Chitwood, "Preface", "Annuity Endowments and Sovereign Foundations on Mount Athos"
-    and "Conclusion."
-  * Zachary Chitwood, "Annuity Endowments and Sovereign Foundations on Mount Athos" (11,500 words).
-  * Tinatin Chronz: "Liturgical Commemoration and Its Material Value in the Georgian ‘Book of Commemorations (*Agape*s)’ of Iviron Monastery" (6,200 words).
-  * Kirill A. Maksimovič: "General Legal Norms of Acquiring and Administering Monastic Property in Byzantium and Their Implementation on Mount Athos from the 12th – Early 14th Centuries: The Case of Hilandar" (10,700 words).
-  * Vanessa R. de Obaldía: "*Servet-i Aynaroz*: Interpreting Ottoman Documents as Sources of Athonite Wealth" (8,300 words).
-  * Alexander Watzinger with Stefan Eichert and Nina Richards: "OpenAtlas - An Open-source Application to Map Historical data with CIDOC CRM" (4,300 words)
+  * Zachary Chitwood, "Introduction" (pp. 1-18), "Annuity Endowments and Sovereign Foundations on Mount Athos" (pp. 107-133) and "Conclusion" (pp. 292-300). 
+  * Tinatin Chronz: "Liturgical Commemoration and Its Material Value in the Georgian *Book of Commemorations (Agapes)* of Iviron Monastery" (pp. 137-154).
+  * Kirill A. Maksimovič: "General Legal Norms of Acquiring and Administering Monastic Property in Byzantium and Their Implementation on Mount Athos: The Case of Hilandar" (pp. 63-88).
+  * Vanessa R. de Obaldía: "Archival Treasures of the Holy Mountain: Interpreting Ottoman Documents as Sources of Athonite Wealth" (219-237).
+  * Alexander Watzinger with Stefan Eichert and Nina Richards: "OpenAtlas - An Open-source Application to Map Historical data with CIDOC CRM" (pp. 279-291)
 
 **2024**
 
