@@ -9,9 +9,13 @@ navigation:
 
 
 
-Lecture, Zachary Chitwood, "Bibelsprachen in Byzanz. Erörterung einer sakralen Polyglossie", within the Interdisziplinäre Ringvorlesung "More Than Words. Spuren der Bibel im Mittelalter" des Zentrums für Mittelalter- und Renaissancestudien im WiSe 24/25, LMU, Munich, 5 December 2024: <https://www.lmu.de/zmr/de/aktuelles/veranstaltungsuebersicht/veranstaltung/more-than-words.-spuren-der-bibel-im-mittelalter.html>. 
-
 **Past**
+
+
+Lecture, Zachary Chitwood, "Zur Entstehung der Pilgerfahrt auf dem Berg Athos im Mittelalter".
+
+Lecture, Zachary Chitwood, "Bibelsprachen in Byzanz. Erörterung einer sakralen Polyglossie", within the Interdisziplinäre Ringvorlesung "More Than Words. Spuren der Bibel im Mittelalter" des Zentrums für Mittelalter- und Renaissancestudien im WiSe 24/25, LMU, Munich, 5 December 2024: [https://www.lmu.de/zmr/de/aktuelles/veranstaltungsuebersicht/veranstaltung/more-than-words.-spuren-der-bibel-im-mittelalter.html](<>). 
+
 
 Lecture, Zachary Chitwood "St Athanasios the Athonite and the Question of Communal Monasticism," at the Friends of Mount Athos (FOMA) 11th Residental Conference "Holy Mountains, Holy Men: The Spirituality of Mount Athos", Madingley Hall, Cambridge (UK), 11-13 October 2024.
 
