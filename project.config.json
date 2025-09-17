@@ -89,12 +89,9 @@
 		"mapDisplayedSystemClasses": ["place", "feature"],
 		"customIconConfig": [
 			{
-				"entityType": 22378,
-				"iconName": "Skull"
-			},
-			{
-				"entityType": 5083,
-				"iconName": "Skull"
+				"entityType": 443,
+				"iconName": "Church",
+				"color": "#24425b"
 			}
 		],
 		"customMovementConfig": {
