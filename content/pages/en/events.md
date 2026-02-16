@@ -5,7 +5,7 @@ navigation:
 ---
 **Events**
 
-**Upcoming**\
+**Upcoming**
 
 Lecture, Zachary Chitwood, "New Perspectives on Byzantine Monasticism from the MAMEMS Project," École française d'Athènes, 26 March 2025: <https://www.efa.gr/events/semmod-26-03-25/?lang=en>.
 
