@@ -56,9 +56,9 @@ const nonLeads = computed(() => {
 				{{ t("TeamPage.leads") }}
 			</h2>
 
-			<ul class="grid gap-8 pt-4 lg:grid-cols-2" role="list">
+			<ul class="gap-8 pt-4" role="list">
 				<li v-for="member of leads" :key="member.id">
-					<article class="prose prose-sm">
+					<article class="prose prose-sm w-full max-w-full">
 						<div
 							class="not-prose relative grid size-20 place-items-center overflow-hidden rounded-full border-2 border-foreground"
 						>
@@ -92,9 +92,9 @@ const nonLeads = computed(() => {
 				{{ t("TeamPage.members") }}
 			</h2>
 
-			<ul class="grid gap-8 py-4 lg:grid-cols-2" role="list">
+			<ul class="grid gap-8 py-4" role="list">
 				<li v-for="member of nonLeads" :key="member.id">
-					<article class="prose prose-sm">
+					<article class="prose prose-sm w-full max-w-full">
 						<div
 							class="not-prose relative grid size-20 place-items-center overflow-hidden rounded-full border-2 border-foreground"
 						>

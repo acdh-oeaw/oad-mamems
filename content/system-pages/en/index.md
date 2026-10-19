@@ -17,4 +17,6 @@ links:
     href: /visualization?mode=table
   - label: Map
     href: /visualization?mode=map
+  - label: Network
+    href: /visualization?mode=network
 ---
